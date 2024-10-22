@@ -9,6 +9,8 @@ This is a simple yet functional calculator application developed using Kotlin fo
 - **Clear and Backspace Functions:** Easily correct mistakes or reset the calculation.
 - **Dot Input:** Allows decimal input for more accurate results.
 - **Live Calculation Display:** Displays the calculation steps in real-time in a secondary view.
+![Calculator Interface](calculator.png)
+
 
 ## Technologies Used
 - **Kotlin:** The primary language for developing Android applications.
